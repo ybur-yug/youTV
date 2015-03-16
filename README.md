@@ -1,5 +1,7 @@
 # YouTV
 
+# Note: This is deprecated, unmaintained, and not working on master
+
 ---
 
 #### Watch youtube like its TV based off a query
